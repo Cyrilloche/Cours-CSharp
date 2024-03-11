@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotiflux", "Spotiflux\Spotiflux.csproj", "{6913093D-5087-41BE-A107-00D2EAD9BC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numpy", "Numpy\Numpy.csproj", "{5B13B062-B819-41C7-8EAC-1C1F253CC949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6913093D-5087-41BE-A107-00D2EAD9BC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6913093D-5087-41BE-A107-00D2EAD9BC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6913093D-5087-41BE-A107-00D2EAD9BC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6913093D-5087-41BE-A107-00D2EAD9BC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B13B062-B819-41C7-8EAC-1C1F253CC949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B13B062-B819-41C7-8EAC-1C1F253CC949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B13B062-B819-41C7-8EAC-1C1F253CC949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B13B062-B819-41C7-8EAC-1C1F253CC949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
