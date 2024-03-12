@@ -15,9 +15,9 @@ namespace Spotiflux
 
         public int Duration { get; set; }
         
-        public int NumberOfStreams { get; set; }
+        public ulong NumberOfStreams { get; set; }
         
-        public Music(Database playlist, string artist, string title, Genre genre, int duration, int numberOfStreams)
+        public Music(Database playlist, string artist, string title, Genre genre, int duration, ulong numberOfStreams)
         {
             Artist = artist;
             Title = title;
